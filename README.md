@@ -1,4 +1,4 @@
-# Efeito 3D flip card ao passar o mouse.
+# Efeito de rolagem paralaxe simples com CSS e Vanilla Javascript
 
 - 🖥 Estou trabalhando front-end
 - 📚 Estou trabalhando com efeito de flip nesse card
