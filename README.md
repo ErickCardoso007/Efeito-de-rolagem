@@ -1,4 +1,4 @@
-# Efeito 3D flip card ao passar o mouse usando apenas HTML e CSS
+# Efeito 3D flip card ao passar o mouse.
 
 - 🖥 Estou trabalhando front-end
 - 📚 Estou trabalhando com efeito de flip nesse card
