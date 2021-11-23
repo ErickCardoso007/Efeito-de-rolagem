@@ -7,7 +7,7 @@
 }
 body {
   background: #0a2a43;
-  min-height: 1500px;
+  min-height: 900px;
 }
 section {
   position: relative;
@@ -33,7 +33,7 @@ section:after {
   top: 0;
   left: 100%;
   height: 100%;
-  background: #0a2a43;
+  background: #fff;
   z-index: 1002220;
   mix-blend-mode: color;
 }
