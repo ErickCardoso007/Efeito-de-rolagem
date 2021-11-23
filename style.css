@@ -7,7 +7,7 @@
 }
 body {
   background: #0a2a43;
-  min-height: 900px;
+  min-height: 1000px;
 }
 section {
   position: relative;
@@ -17,7 +17,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-}
+}   
 section:before {
   content: "";
   position: absolute;
