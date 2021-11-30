@@ -1,4 +1,4 @@
-# Efeito de rolagem paralaxe simples com CSS e Vanilla Javascript
+# Efeito de rolagem simples com CSS e Vanilla Javascript
 
 - 🖥 Estou trabalhando front-end
 - 📚 Estou trabalhando com efeito de flip nesse card
